@@ -1,6 +1,6 @@
 ## Hello 👋 Welcome to my GitHub page! 
 
-I am a bioinformatician 💻 from Brazil who is passionate about uncovering microbiomes 🦠 \
+I am a bioinformatician 💻 from Brazil and I am passionate about uncovering microbiomes 🦠 \
 and their intricate associations with health 💖, diet 🥗, lifestyles 🗓️, and the environment 🌍.
 
 My journey into the world of microbiomes began 10 years ago and since then, \

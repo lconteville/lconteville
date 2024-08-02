@@ -1,8 +1,17 @@
-## Hi there 👋 Welcome to my GitHub page!
+## Hello 👋 Welcome to my GitHub page! 
+\
+I am a bioinformatician 💻 from Brazil who is passionate about uncovering microbiomes 🦠 \
+and their intricate associations with health 💖, diet 🥗, lifestyles 🗓️, and the environment 🌍.
 
-I am passionate about uncovering microbiomes and their intricate associations with health, the environment, and diseases.
+My journey into the intricate world of microbiomes began 10 years ago and since then, \
+I have dedicated myself to exploring the complex microbial communities of:
 
-- 📫 Reach me at lilianeconteville@gmail.com
+- Fatal patients with unknown etiologies
+- Amazonian Indigenous groups
+- Healthy individuals across different lifestyles
+- Ruminants with economic and environmental impacts
+
+📫 Reach me at lilianeconteville@gmail.com
 
 
 <!--

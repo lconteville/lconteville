@@ -1,5 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub page!
 
+I am passionate about uncovering microbiomes and their intricate associations with health, the environment, and diseases.
+
 - 📫 Reach me at lilianeconteville@gmail.com
 
 

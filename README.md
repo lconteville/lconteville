@@ -1,11 +1,12 @@
 ## Hello 👋 Welcome to my GitHub page! 
 
-My name is Liliane and I am a bioinformatician 💻 from Brazil!
+✨ My name is Liliane and I am a bioinformatician 💻 from Brazil 🇧🇷!
+\
 \
 I am passionate about uncovering microbiomes 🦠 and their intricate associations with health 💖, diet 🥗, lifestyles 🗓️, and the environment 🌍.
-
-My journey into the world of microbiomes began 10 years ago and since then, I have dedicated \
-myself to exploring the complex microbial communities of:
+\
+\
+My journey into the world of microbiomes began 10 years ago and since then, I have dedicated myself to exploring the complex microbial communities of:
 
 - Fatal patients with unknown etiologies
 - Amazonian Indigenous groups

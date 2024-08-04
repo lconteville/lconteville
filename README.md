@@ -13,6 +13,8 @@ My journey into the world of microbiomes began 10 years ago and since then, I ha
 - Healthy individuals across different lifestyles
 - Ruminants with economic and environmental impacts
 
+![](https://komarev.com/ghpvc/?username=lconteville)
+
 📫 Reach me at lilianeconteville@gmail.com
 
 
